@@ -26,7 +26,7 @@ Content creators struggle to transform raw ideas into structured, publication-re
 ## Technical Implementation
 
 ### Core Technologies
-- GPT-4 (or specify your model)
+- GPT-4
 - Advanced prompt engineering patterns
 - Agentic AI workflow design
 
